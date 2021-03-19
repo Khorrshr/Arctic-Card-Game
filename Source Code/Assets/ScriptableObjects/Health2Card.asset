@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67ea0b3ee21aa834ab0e908e21303606, type: 3}
+  m_Name: Health2Card
+  m_EditorClassIdentifier: 
+  cardTitle: Large Health
+  description: High quality health treatment (+4)
+  cost: 2
+  effect: 4
+  damageType: 0
+  cardImage: {fileID: 21300000, guid: 847f0f8a25bf0674c80a0928147fbec0, type: 3}
+  frameImage: {fileID: 21300000, guid: dc1b6e90508de7c4fb50551a5f36fef9, type: 3}
+  numberInDeck: 3
+  isDefenseCard: 1
+  isMirrorCard: 0
+  isMulti: 0
